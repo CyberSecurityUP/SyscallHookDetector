@@ -75,3 +75,4 @@ This tool is for educational and research purposes only. Use it responsibly and 
 - https://www.ired.team/offensive-security/defense-evasion/detecting-hooked-syscall-functions
 - https://github.com/Helixo32/SimpleEDR
 - https://github.com/Mr-Un1k0d3r/EDRs
+- https://docs.redteamleaders.com/offensive-security/windows-internals-and-api/detection-of-hooked-syscalls-in-ntdll.dll
