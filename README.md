@@ -24,7 +24,7 @@ If the prologue does not match or if a redirection (`jmp` or `call`) is detected
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/CuberSecurityUP/SyscallHookDetector.git
+git clone https://github.com/CyberSecurityUP/SyscallHookDetector.git
 ```
 
 2. Open the project in your preferred C++ development environment.
